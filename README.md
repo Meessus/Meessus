@@ -13,6 +13,16 @@ I'm a Software Developer student at MBO Utrecht.
 - C#
 
 
+## Interesting stuff
+🌱 Currently working on my own small projects..
+
+🧠 Learning more about Unity..
+
+📫 Reach me at mees.passchier@gmail.com!
+
+⚡️ I love learning new things.
+
+
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1200px-Unity_Technologies_logo.svg.png)
 
 
