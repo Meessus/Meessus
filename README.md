@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Software Developer student at MBO Utrecht. 
+I'm a 17 year old Software Developer at MBO Utrecht. I've always been interested in programming, especially for games.
 
 
 ## 💻 Programming languages
