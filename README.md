@@ -23,7 +23,8 @@ I'm a 17 year old Software Developer at MBO Utrecht. I've always been interested
 ⚡️ I love learning new things.
 
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1200px-Unity_Technologies_logo.svg.png)
+
+![Logo](https://images.squarespace-cdn.com/content/v1/606cb0962166460365da1260/7887a895-bc2c-4aa1-a24d-08147a6e79bb/unity-banner_green.png?format=1000w)
 
 
 ## 🔗 Links
